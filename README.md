@@ -8,12 +8,12 @@ I've created several R packages (mostly for linguists):
 
 and some typological databases
 
-• [The World Consonant Alternation Database](https://agricolamz.github.io/wcad/)
-• [The World Writing System Database](https://agricolamz.github.io/wwsd/)
+* [The World Consonant Alternation Database](https://agricolamz.github.io/wcad/)
+* [The World Writing System Database](https://agricolamz.github.io/wwsd/)
 * [The Circassian Consonants Correspondences Database](https://agricolamz.github.io/cccd/)
-• [Iconicity patterns in Sign Languges](https://sl-iconicity.shinyapps.io/iconicity_patterns/)
-• [Daghestanian Sound Database](https://daghestanian-sound-database.herokuapp.com/)
-• [Лексика адыгских идиомов на территории РФ](https://agricolamz.github.io/adyghe_atlas/)
-• [The Circassian Consonants Correspondences Database](https://agricolamz.github.io/cccd/)
+* [Iconicity patterns in Sign Languges](https://sl-iconicity.shinyapps.io/iconicity_patterns/)
+* [Daghestanian Sound Database](https://daghestanian-sound-database.herokuapp.com/)
+* [Лексика адыгских идиомов на территории РФ](https://agricolamz.github.io/adyghe_atlas/)
+* [The Circassian Consonants Correspondences Database](https://agricolamz.github.io/cccd/)
 
 I also teach statistics, R programming, and phonetics in HSE university.
