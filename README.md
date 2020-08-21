@@ -1,4 +1,4 @@
-I'm a field linguist interested in merging linguistics, statistics, maps and R programming. 
+I'm a field linguist interested in merging linguistics, statistics, maps, and R programming. 
 
 I've created several R packages (mostly for linguists):
 
