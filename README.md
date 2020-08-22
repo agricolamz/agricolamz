@@ -6,6 +6,7 @@ I've created several R packages (mostly for linguists):
 * [`phonfieldwork`](https://github.com/agricolamz/phonfieldwork)
 * [`checkdown`](https://github.com/agricolamz/checkdown)
 * [`lingcorpora`](https://github.com/lingcorpora/lingcorpora.py) (under my supervision)
+* [phonetic-algorithmIPA](https://pypi.org/project/phonetic-algorithmIPA/) (under my supervision)
 
 and some typological databases
 
