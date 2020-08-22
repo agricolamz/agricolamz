@@ -16,6 +16,7 @@ and some typological databases
 * [Daghestanian Sound Database](https://daghestanian-sound-database.herokuapp.com/)
 * [Лексика адыгских идиомов на территории РФ](https://agricolamz.github.io/adyghe_atlas/)
 * [The Circassian Consonants Correspondences Database](https://agricolamz.github.io/cccd/)
+* [On Uvular Consonants in Languages of the Caucasus](https://agricolamz.github.io/uvular_database/)
 * [Gender Systems in Nakh-Daghestaninan languages](https://kartozia.github.io/Gender-Systems-Database/) (under my supervision)
 
 I also teach statistics, R programming, and phonetics in HSE university.
