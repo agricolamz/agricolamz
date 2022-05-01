@@ -11,6 +11,7 @@ I've created several R packages (mostly for linguists):
 
 and some typological databases
 
+* [The Comparative Andic Dictionaries database](https://github.com/phon-dicts-project/comparative_andic_dictionary_database)
 * [The World Consonant Alternation Database](https://agricolamz.github.io/wcad/)
 * [The World Writing System Database](https://agricolamz.github.io/wwsd/)
 * [The Circassian Consonants Correspondences Database](https://agricolamz.github.io/cccd/)
