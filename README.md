@@ -5,6 +5,7 @@ I've created several R packages (mostly for linguists):
 * [`lingtypology`](https://github.com/ropensci/lingtypology)
 * [`phonfieldwork`](https://github.com/ropensci/phonfieldwork)
 * [`lingglosses`](https://github.com/agricolamz/lingglosses)
+* [`RCaucTile`](https://github.com/LingConLab/RCaucTile)
 * [`checkdown`](https://github.com/agricolamz/checkdown)
 * [`lingcorpora`](https://github.com/lingcorpora/lingcorpora.py) (under my supervision)
 * [`phonetic-algorithmIPA`](https://pypi.org/project/phonetic-algorithmIPA/) (under my supervision)
